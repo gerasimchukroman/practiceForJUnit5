@@ -1,0 +1,2 @@
+ru/kinopoisk/WebTest.java
+ ru.kinopoisk.WebTest
